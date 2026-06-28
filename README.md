@@ -1,4 +1,4 @@
-# Scalable Web App with ALB and Auto Scaling
+# Scalable Web App with ALB and Auto Scaling 
 
 ## Overview
 
